@@ -160,8 +160,7 @@ streamlit run ui/app.py
 
 ## Author
 
-**Vignesh Pai**  
-Senior ADAS Test & Verification Engineer | ML Engineer  
+**Vignesh Pai**   
 [GitHub](https://github.com/vigp17)
 
 ---
