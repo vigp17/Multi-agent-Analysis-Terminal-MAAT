@@ -160,7 +160,7 @@ streamlit run ui/app.py
 
 ## Author
 
-**Vignesh Pai**   
+**Vignesh Pai**  
 [GitHub](https://github.com/vigp17)
 
 ---
